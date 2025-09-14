@@ -57,4 +57,4 @@ The Streamlit interface allows real-time prediction:
 
 - Use larger and more diverse datasets for better generalization
 
-- Deploy as a web service (Flask/Django + Docker
+- Deploy as a web service (Flask/Django + Docker)
